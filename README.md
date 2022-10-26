@@ -21,6 +21,8 @@
 ![aaa](https://img.shields.io/badge/-Ansible-black?style=for-the-badge)
 ![Java](https://img.shields.io/badge/-Java-black?style=for-the-badge)
 
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=lamoboos223&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 
 ## 🏆GitHub Trophies
