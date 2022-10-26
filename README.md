@@ -1,8 +1,10 @@
 # About Me
 - 👋 Hi, I’m Lama
-- 👀 I’m interested in Software Engineering
-- 💞️ I’m looking to collaborate on any kind of projects except mobile dev
-- 📫 How to reach me? Linkedin: https://www.linkedin.com/in/lama-alosaimi
+- 👀 I’m interested in Software Engineering in general
+- 💻 I develop several kinds of applications, web application, Deep Learning Applications
+- 📝 I regularly write tech articles on Medium for free to support the open source community. 
+- 💞️ I’m looking to collaborate on any project and make connections with people in tech.
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://sa.linkedin.com/in/lama-alosaimi)   [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@lalosaimi)
 
