@@ -1,5 +1,5 @@
 
-![](https://readme-typing-svg.herokuapp.com/?font=Arima+Madurai&color=%231E75AA&size=50&duration=4000&center=true&vCenter=true&width=1000&height=120&lines=Hi,%20I%20am%20Lama+%20+%20Alosaimi)
+![](https://readme-typing-svg.herokuapp.com/?font=Arima+Madurai&color=%231E75AA&size=50&duration=4000&center=true&vCenter=true&width=1000&height=120&lines=i%20just%20like%20scripting%20things%20up)
 # About Me
 - 👋 Hi, I’m Lama
 - 👀 I’m interested in Software Engineering in general
