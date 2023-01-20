@@ -1,5 +1,6 @@
 
-![](https://readme-typing-svg.herokuapp.com/?font=Arima+Madurai&color=%231E75AA&size=50&duration=4000&center=true&vCenter=true&width=1000&height=120&lines=i%20just%20like%20scripting%20things%20up)
+![](https://readme-typing-svg.herokuapp.com/?font=Arima+Madurai&color=%231E75AA&size=50&duration=4000&center=true&vCenter=true&width=1000&height=120&lines=nature%20accepts%20and%20society%20rejects)
+
 # About Me
 - 👋 Hi, I’m Lama
 - 👀 I’m interested in Software Engineering in general
