@@ -3,13 +3,6 @@
 
 
 
-
-
-![](https://user-images.githubusercontent.com/35597031/213902160-01fc1e48-fc06-4869-8ae8-5d8b9f1644a6.mp4)
-
-
-
-
 # About Me
 - 👋 Hi, I’m Lama
 - 👀 I’m interested in Software Engineering in general
