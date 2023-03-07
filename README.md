@@ -1,16 +1,3 @@
-
-![](https://readme-typing-svg.herokuapp.com/?font=Arima+Madurai&color=%231E75AA&size=50&duration=4000&center=true&vCenter=true&width=1000&height=120&lines=nature%20accepts%20and%20society%20rejects)
-
-
-
-# About Me
-- 👋 Hi, I’m Lama
-- 👀 I’m interested in Software Engineering in general
-- 💻 I develop several kinds of applications, web application, Deep Learning Applications
-- 📝 I regularly write tech articles on Medium for free to support the open source community. 
-- 💞️ I’m looking to collaborate on any project and make connections with people in tech.
-
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://sa.linkedin.com/in/lama-alosaimi)   [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@lalosaimi)
 
 
